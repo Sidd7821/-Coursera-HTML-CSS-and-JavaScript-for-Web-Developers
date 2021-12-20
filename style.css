@@ -1,0 +1,18 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+body{
+	/*Changes the background color to yellow*/
+	background-color:yellow;
+}
+h1{
+	/*change the color of text to blue*/
+	color:blue;
+	/*it will make the text to center*/
+	text-align:center;
+	/*It is the size of characters*/
+	font-size:50px;
+	/*It specifies the font of text*/
+	font-family:verdana;
+
+}
